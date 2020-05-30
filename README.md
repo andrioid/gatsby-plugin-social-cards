@@ -16,11 +16,11 @@ Only works for remark nodes at the moment.
 
 There are two design available now, "card" and "default". But we can expand that later.
 
-![default card design](https://github.com/andrioid/andri.dk/blob/master/plugins/social-card/img/default-design.jpg?raw=true)
+![default card design](https://github.com/andrioid/gatsby-plugin-social-cards/blob/master/img/default-design.jpg?raw=true)
 
-![default card design](https://github.com/andrioid/andri.dk/blob/master/plugins/social-card/img/card-design.jpg?raw=true)
+![default card design](https://github.com/andrioid/gatsby-plugin-social-cards/blob/master/img/card-design.jpg?raw=true)
 
-![default card design](https://github.com/andrioid/andri.dk/blob/master/plugins/social-card/img/cover-custom-author.jpg?raw=true)
+![default card design](https://github.com/andrioid/gatsby-plugin-social-cards/blob/master/img/cover-custom-author.jpg?raw=true)
 
 ### Custom Backgrounds
 
@@ -67,9 +67,9 @@ plugins: [
       // author to use when no auth in frontmatter
       defaultAuthor: "Andri Óskarsson",
       // card design
-      design: "default" // 'default' or 'card'
-    }
-  }
+      design: "default", // 'default' or 'card'
+    },
+  },
 ];
 ```
 
