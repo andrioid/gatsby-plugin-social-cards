@@ -14,7 +14,7 @@ import Split from "./designs/split";
 // Only used if nothing specified by options, or node.frontmatter.cover
 const defaultBackgroundImage = path.join(
   __dirname,
-  "./src/default-background.jpg"
+  "./img/default-background.jpg"
 );
 
 export async function generateCard(
