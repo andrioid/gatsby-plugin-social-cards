@@ -13,7 +13,7 @@ To learn more about social-cards in general, check out [open graph](https://ogp.
 
 I'm using this for [andri.dk](https://andri.dk) and it works for me, both locally and for Netlify builds. File an issue if you are having an problems getting this to run. It's either a bug, or lacking documentation. Both I can fix.
 
-Only works for remark nodes at the moment.
+Should work for remark and mdx node types.
 
 ## Features
 
