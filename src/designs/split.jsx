@@ -30,7 +30,7 @@ const Overlay = ({
       viewBox={`0 0 ${iwidth} ${iheight}`}
       fill="#fff"
       style={{
-        fontFamily: "helvetica",
+        fontFamily: "Helvetica, Arial, SansSerif",
       }}
       version="1.1"
       xmlns="http://www.w3.org/2000/svg"
