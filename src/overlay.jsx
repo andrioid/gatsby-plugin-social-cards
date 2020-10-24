@@ -31,7 +31,7 @@ const Overlay = ({
       height="600"
       viewBox={`0 0 ${iwidth} ${iheight}`}
       style={{
-        fontFamily: "Helvetica, Arial, SansSerif",
+        fontFamily: "helvetica",
       }}
     >
       <defs>

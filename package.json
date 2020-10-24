@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-social-cards",
-  "version": "0.5.16",
+  "version": "0.5.17",
   "description": "Generates social cards for your markdown posts and adds a field so you can reference them in your meta-tags.",
   "main": "index.js",
   "scripts": {
